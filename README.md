@@ -276,7 +276,7 @@ segmentedControl.VisibleSegmentsCount = 5;
 
 ```
 
-** Display Mode
+**Display Mode**
 
 We can change the appearance of the segmented control by using the DisplayMode property of SfSegmentedControl. We can set the DisplayMode to either Image or Text or ImageWithText.
 
