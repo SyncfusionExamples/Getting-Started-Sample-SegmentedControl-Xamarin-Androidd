@@ -1,4 +1,4 @@
-# Getting-Started-Sample-SegmentedControl-Xamarin-Androidd
+# Getting-Started-Sample-SegmentedControl-Xamarin-Android
 This describes about the getting started sample of SegmentedControl in  Xamarin.Android
 
 This section provides a quick overview for working with the segmented control for Xamarin.Android. Walk through the entire process of creating a real-world application with segmented control.
